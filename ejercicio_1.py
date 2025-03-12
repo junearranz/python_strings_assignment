@@ -33,7 +33,7 @@ print(lista_de_nombres)
 # Exercise 7: Get the first word from your string using indexes. Use the upper function to transform the letters into uppercase. Create a new string that takes the uppercase word and the rest of the original string.
 
 string_three = string[0:4]
-print(string_three.upper())
+print(string_three.upper()+ string[4:])
 
 # Exercise 8: Use string interpolation to print out a sentence that contains your number variable.
 
