@@ -22,7 +22,7 @@ print(number_two)
 
 # Exercise 5: Use an index to get the last element in your list.
 
-print(lista[5])
+print(lista[-1])
 
 # Exercise 6: Use split to transform the following string into a list.
 
